@@ -1,0 +1,4 @@
+
+interface Report {
+    String generateContent();
+}
