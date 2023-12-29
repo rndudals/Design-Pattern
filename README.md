@@ -18,21 +18,21 @@
 터 패턴은 객체에 동적으로 새로운 책임을 추가할 수 있게 해줍니다. 출력 일과 리포트
 제목과 같은 선택적인 부분을 쉽게 확장하고 조합할 수 있도록 합니다
 
+
+
+
 ### strategy pattern
 
-<img width="1200" alt="스크린샷 2023-12-29 155451" src="https://github.com/rndudals/Design-Pattern/assets/102203336/6868abe2-9636-488f-b268-a2d478cbf93a">
-
-### Factory pattern
 <img width="534" alt="스크린샷 2023-12-29 155357" src="https://github.com/rndudals/Design-Pattern/assets/102203336/598771b8-24c3-4331-aa09-4f4b68de80d1">
 
-### Decorator pattern
+### Factory pattern
 <img width="544" alt="스크린샷 2023-12-29 155414" src="https://github.com/rndudals/Design-Pattern/assets/102203336/ed72b8b5-76f5-48f2-bdcd-5c69ab4c355b">
 
-# Class Diagram
+### Decorator pattern
 <img width="549" alt="스크린샷 2023-12-29 155428" src="https://github.com/rndudals/Design-Pattern/assets/102203336/a31e96c8-6d68-497e-a1a7-8edc2fca46d6">
 
-
-
+# Class Diagram
+<img width="600" alt="스크린샷 2023-12-29 155451" src="https://github.com/rndudals/Design-Pattern/assets/102203336/6868abe2-9636-488f-b268-a2d478cbf93a">
 
 
 
