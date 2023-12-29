@@ -31,8 +31,11 @@
 ### Decorator pattern
 <img width="549" alt="스크린샷 2023-12-29 155428" src="https://github.com/rndudals/Design-Pattern/assets/102203336/a31e96c8-6d68-497e-a1a7-8edc2fca46d6">
 
-# Class Diagram
+## 전체 클래스 다이어그램
 <img width="600" alt="스크린샷 2023-12-29 155451" src="https://github.com/rndudals/Design-Pattern/assets/102203336/6868abe2-9636-488f-b268-a2d478cbf93a">
+
+## 사용 예시
+<img width="751" alt="스크린샷 2023-12-29 160543" src="https://github.com/rndudals/Design-Pattern/assets/102203336/56162a54-8b00-462f-8ce4-3a09f2f9c81c">
 
 
 
