@@ -20,7 +20,7 @@
 
 ### strategy pattern
 
-<img width="800" alt="스크린샷 2023-12-29 155451" src="https://github.com/rndudals/Design-Pattern/assets/102203336/6868abe2-9636-488f-b268-a2d478cbf93a">
+<img width="1200" alt="스크린샷 2023-12-29 155451" src="https://github.com/rndudals/Design-Pattern/assets/102203336/6868abe2-9636-488f-b268-a2d478cbf93a">
 
 ### Factory pattern
 <img width="534" alt="스크린샷 2023-12-29 155357" src="https://github.com/rndudals/Design-Pattern/assets/102203336/598771b8-24c3-4331-aa09-4f4b68de80d1">
